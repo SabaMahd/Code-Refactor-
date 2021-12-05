@@ -1,5 +1,6 @@
 # Code-Refactor-
-image "C:\Users\sabam\Desktop\Code-Refactor-\Develop\assets\images\Project screenshot.jpeg"
+image "C:\Users\sabam\Desktop\Code-Refactor-\Develop\assets\images\Project screenshot.
+![]<image/project screenshot.jpeg>
 
 Horiseon-Refactor
 Project status: Complete
